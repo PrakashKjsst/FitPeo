@@ -111,6 +111,5 @@ The required dependencies are listed in the `pom.xml` file. Key dependencies inc
 
 ## **Contact**
 For any queries, feel free to contact:
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
+- **Name**: [Prakash kammari]
+- **Email**: [kjsstprakash42@gmail.com]
